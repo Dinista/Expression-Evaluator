@@ -1,6 +1,8 @@
 # Expression-Evaluator
 A basic implementation of an expression evaluator based in concepts such as lexer, parser, tree representation and Shunting Yard algorithm. Theres two versions of the program, one wrote in Rust and another one wrote in Pyhton, for comparison proprose. Also an portuguese article was written comaparing the two implementations.
 
+The article can be found in the folder <i>/docs</i>
+
 <b>This is the first project of the class Imperative and Object Oriented Programming Paradigm </b>
 
 ## How to use
