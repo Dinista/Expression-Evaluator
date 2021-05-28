@@ -3,7 +3,7 @@ A basic implementation of an expression evaluator based in concepts such as lexe
 
 The article can be found in the folder <i>/docs</i>
 
-<b>This is the first project of the class Imperative and Object Oriented Programming Paradigm </b>
+<b>First project of the class Imperative and Object Oriented Programming Paradigm </b>
 
 ## How to use
 
